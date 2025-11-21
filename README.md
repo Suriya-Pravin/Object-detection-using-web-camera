@@ -89,7 +89,9 @@ cv2.destroyAllWindows()
 
 # OUTPUT:
 
-<img width="796" height="638" alt="image" src="https://github.com/user-attachments/assets/38d726ef-61ef-49c9-9d29-99c70faccb79" />
+![Untitled_pages-to-jpg-0001](https://github.com/user-attachments/assets/43608473-03d6-482e-bc15-83b5a2a4f474)
 
 
- 
+# RESULT:
+
+The real-time object detection was successfully performed using the laptop webcam. The YOLOv4 model detected objects such as person, bottle, chair, etc., and displayed bounding boxes with confidence values in real time.
