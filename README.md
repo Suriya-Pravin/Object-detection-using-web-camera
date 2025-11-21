@@ -2,7 +2,6 @@
 
 <H3>Name: Suriya Pravin M</H3>
 <H3>Register no: 212223230223</H3>
-<H3>Date: 30.9.2025 </H3>
 
 # AIM:
 To perform real-time object detection using a trained YOLO v4 model through your laptop camera.
